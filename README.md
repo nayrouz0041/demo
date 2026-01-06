@@ -1,2 +1,3 @@
-
-![Explainable NLP Demo](demo/prototype-phd.gif)
+<p align="center">
+  <img src="demo/explainable_nlp.gif" width="320" />
+</p>
